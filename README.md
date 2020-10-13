@@ -1,6 +1,6 @@
 # Prototipa-o-Bitzen---React-native
 
-<p align='center' style="margin: 0px; padding: 0px;"><img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Flinkites.com%2Freact-native-application-development-company%2F&psig=AOvVaw1_sjJ0j4CahsrB5YMN107B&ust=1602637751065000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKiwy4GxsOwCFQAAAAAdAAAAABAS' width=100%></p>
+<p align='center' style="margin: 0px; padding: 0px;"><img src='https://linkites.com/wp-content/uploads/2019/04/React-native-Banner-1024x397.png' width=100%></p>
 > Status: Finished :heavy_check_mark:
 
 ## <strong id='apresentação'>Apresentação</strong>
@@ -14,7 +14,8 @@ Este projeto é uma protoipação em ract native de um layout oferecido pela Bit
  git clone https://github.com/Matheus-se/Prototipa-o-Bitzen---React-native.git
  cd Prototipa-o-Bitzen---React-native
  node install
- npm start```
+ npm start
+ ```
 
 ## <strong id='Projetos'>Outros Projetos</strong> :mag:
 
