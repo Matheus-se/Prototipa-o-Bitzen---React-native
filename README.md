@@ -1,6 +1,6 @@
 # Prototipa-o-Bitzen---React-native
 
-<p align='center' style="margin: 0px; padding: 0px;"><img src='https://linkites.com/wp-content/uploads/2019/04/React-native-Banner-1024x397.png' width=100%></p>
+<p align='center' style="margin: 0px; padding: 0px;"><img src='https://linkites.com/wp-content/uploads/2019/04/React-native-Banner-1024x397.png' width=90%></p>
 > Status: Finished :heavy_check_mark:
 
 ## <strong id='apresentação'>Apresentação</strong>
@@ -16,6 +16,12 @@ Este projeto é uma protoipação em ract native de um layout oferecido pela Bit
  node install
  npm start
  ```
+ 
+ Com isso o Expo irá disponibilizar um link no qual é possivel acessar o protótipo no próprio dispositivo escaneando um código QR, acessar o protótipo em web (Não recomendado) e acessar o protótipo em um simulados ios/android.
+ 
+## <strong id='Vizualizar'>Vizualizar protótipo</strong>
+
+Para vizualizar o protótipo, primeiramente acesse <a href='https://exp.host/@matheus-se/PrototipoBitzen'>https://exp.host/@matheus-se/PrototipoBitzen</a>.
 
 ## <strong id='Projetos'>Outros Projetos</strong> :mag:
 
