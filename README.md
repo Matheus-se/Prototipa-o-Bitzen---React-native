@@ -1,17 +1,23 @@
 # Prototipo-Bitzen-React-native
 
+<p align='center' style="margin: 0px; padding: 0px;"><img src='https://linkites.com/wp-content/uploads/2019/04/React-native-Banner-1024x397.png' width=90%></p>
+> Status: Finished :heavy_check_mark:
+
 ## Barra de navegação
  - <a href='#apresentação'>Apresentação</a>
  - <a href='#Visualizar'>Visualizar Protótipo</a>
  - <a href='#clone'>Rodar em máquina local</a>
  - <a href='#Projetos'>Projetos</a>
  - <a href='#Contato'>Contato</a>
-
-<p align='center' style="margin: 0px; padding: 0px;"><img src='https://linkites.com/wp-content/uploads/2019/04/React-native-Banner-1024x397.png' width=90%></p>
-> Status: Finished :heavy_check_mark:
-
+ 
 ## <strong id='apresentação'>Apresentação</strong> :iphone:
 Este projeto é uma protoipação em ract native de um layout oferecido pela **Bitzen soluções** como teste técnico para vaga Desenvolvedor Front-End Junior. Com exeção da tab "Sobre", todo resto da prototipação devia seguir os exatos modelos oferecidos no layout.
+
+## <strong id='Visualizar'>Visualizar protótipo</strong> :eyes:
+
+Para visualizar o protótipo, primeiramente acesse <a href='https://exp.host/@matheus-se/PrototipoBitzen'>https://exp.host/@matheus-se/PrototipoBitzen</a>. Em seguida é possivel escolher entre visualizar em aparelho físico próprio ou em web.
+
+<p align='center' style="margin: 0px; padding: 0px;"><img src='https://i.imgur.com/Oqe7Por.png' width=90%></p>
 
 ## <strong id='clone'>Rodar projeto em máquina local</strong> :computer:
  
@@ -25,12 +31,6 @@ Este projeto é uma protoipação em ract native de um layout oferecido pela **B
  ```
  
  Com isso o Expo irá disponibilizar um link no qual é possivel acessar o protótipo no próprio dispositivo escaneando um código QR, acessar o protótipo em web (Não recomendado) e acessar o protótipo em um simulados ios/android.
- 
-## <strong id='Visualizar'>Visualizar protótipo</strong> :eyes:
-
-Para visualizar o protótipo, primeiramente acesse <a href='https://exp.host/@matheus-se/PrototipoBitzen'>https://exp.host/@matheus-se/PrototipoBitzen</a>. Em seguida é possivel escolher entre visualizar em aparelho físico próprio ou em web.
-
-<p align='center' style="margin: 0px; padding: 0px;"><img src='https://i.imgur.com/Oqe7Por.png' width=90%></p>
 
 ### Visualizar em aparelho físico próprio
 Para isto é necessário instalar no seu dispositivo o aplicativo *Expo client* fornecera um scan e partbilidade de aplicações Expo. Em seguida escaneie o código QR na página do expo. 
