@@ -4,13 +4,13 @@
 > Status: Finished :heavy_check_mark:
 
 ## Barra de navegação
- - <a href='#apresentação'>Apresentação</a>
- - <a href='#Visualizar'>Visualizar Protótipo</a>
+ * <a href='#apresentação'>Apresentação</a>
+ * <a href='#Visualizar'>Visualizar Protótipo</a>
   * <a href='#Visualizar-fisico'>Visualizar em aparelho físico próprioo</a>
   * <a href='#Visualizar-web'>Visualizar em Web (Aparelho Virtual)</a>
- - <a href='#clone'>Rodar em máquina local</a>
- - <a href='#Projetos'>Projetos</a>
- - <a href='#Contato'>Contato</a>
+ * <a href='#clone'>Rodar em máquina local</a>
+ * <a href='#Projetos'>Projetos</a>
+ * <a href='#Contato'>Contato</a>
  
 ## <strong id='apresentação'>Apresentação</strong> :iphone:
 Este projeto é uma protoipação em ract native de um layout oferecido pela **Bitzen soluções** como teste técnico para vaga Desenvolvedor Front-End Junior. Com exeção da tab "Sobre", todo resto da prototipação devia seguir os exatos modelos oferecidos no layout.
