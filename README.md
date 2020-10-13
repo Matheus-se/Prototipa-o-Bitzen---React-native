@@ -6,8 +6,8 @@
 ## Barra de navegação
  - <a href='#apresentação'>Apresentação</a>
  - <a href='#Visualizar'>Visualizar Protótipo</a>
-  - <a href='#Visualizar-fisico'>Visualizar Protótipo</a>
-  - <a href='#Visualizar-web'>Visualizar Protótipo</a>
+  * <a href='#Visualizar-fisico'>Visualizar em aparelho físico próprioo</a>
+  * <a href='#Visualizar-web'>Visualizar em Web (Aparelho Virtual)</a>
  - <a href='#clone'>Rodar em máquina local</a>
  - <a href='#Projetos'>Projetos</a>
  - <a href='#Contato'>Contato</a>
