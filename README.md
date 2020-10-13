@@ -36,7 +36,7 @@ Para visualizar o protótipo, primeiramente acesse <a href='https://exp.host/@ma
 Para isto é necessário instalar no seu dispositivo o aplicativo *Expo client* fornecera um scan e partbilidade de aplicações Expo. Em seguida escaneie o código QR na página do expo. 
 
 ### Visualizar em Web (Aparelho Virtual)
-Na página do projeto Expo, clique em Open project in the browser e depois em open project. Isto irá abrir um aparelho vitual que possibilitará a visualização da projeto.
+Na página do projeto Expo, clique em *Open project in the browser* e depois em *open project*. Isto irá abrir um aparelho vitual que possibilitará a visualização da projeto.
 
 ## <strong id='Projetos'>Outros Projetos</strong> :mag:
 
