@@ -23,7 +23,7 @@ Este projeto é uma protoipação em ract native de um layout oferecido pela Bit
 
 Para vizualizar o protótipo, primeiramente acesse <a href='https://exp.host/@matheus-se/PrototipoBitzen'>https://exp.host/@matheus-se/PrototipoBitzen</a>. Em seguida é possivel escolher entre vizualizar em aparelho físico próprio ou em web.
 
-<p align='center' style="margin: 0px; padding: 0px;"><img src='https://imgur.com/a/3cZnOhN' width=90%></p>
+<p align='center' style="margin: 0px; padding: 0px;"><img src='https:https://i.imgur.com/Oqe7Por.png' width=90%></p>
 
 ### Vizualizar em aparelho físico próprio
 Para isto é necessário instalar no seu dispositivo o aplicativo Expo client fornecera um scan e partbilidade de aplicações Expo. Em seguida escaneie o código QR na página do expo. 
