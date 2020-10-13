@@ -3,7 +3,7 @@
 <p align='center' style="margin: 0px; padding: 0px;"><img src='https://linkites.com/wp-content/uploads/2019/04/React-native-Banner-1024x397.png' width=90%></p>
 > Status: Finished :heavy_check_mark:
 
-## <strong id='apresentação'>Apresentação</strong>
+## <strong id='apresentação'>Apresentação</strong> :iphone:
 Este projeto é uma protoipação em ract native de um layout oferecido pela Bitzen soluções como teste técnico para vaga Desenvolvedor Front-End Junior. Com exeção da tab "Sobre", todo resto da prototipação devia seguir os exatos modelos oferecidos no layout.
 
 ## <strong id='clone'>Rodar projeto em máquina local</strong> :computer:
@@ -23,11 +23,13 @@ Este projeto é uma protoipação em ract native de um layout oferecido pela Bit
 
 Para vizualizar o protótipo, primeiramente acesse <a href='https://exp.host/@matheus-se/PrototipoBitzen'>https://exp.host/@matheus-se/PrototipoBitzen</a>. Em seguida é possivel escolher entre vizualizar em aparelho físico próprio ou em web.
 
-### Vizualizar em aparelho físico próprio :iphone:
+<p align='center' style="margin: 0px; padding: 0px;"><img src='https://imgur.com/a/3cZnOhN' width=90%></p>
+
+### Vizualizar em aparelho físico próprio
 Para isto é necessário instalar no seu dispositivo o aplicativo Expo client fornecera um scan e partbilidade de aplicações Expo. Em seguida escaneie o código QR na página do expo. 
 
-### Vizualizar em Web (Aparelho Virtual) :satellite:
-Na página do projeto Expo, clique em Open project in the browser. Isto irá abrir um aparelho vitual que possibilitará a visualização da projeto.
+### Vizualizar em Web (Aparelho Virtual)
+Na página do projeto Expo, clique em Open project in the browser e depois em open project. Isto irá abrir um aparelho vitual que possibilitará a visualização da projeto.
 
 ## <strong id='Projetos'>Outros Projetos</strong> :mag:
 
