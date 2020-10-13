@@ -19,14 +19,14 @@ Este projeto é uma protoipação em ract native de um layout oferecido pela Bit
  
  Com isso o Expo irá disponibilizar um link no qual é possivel acessar o protótipo no próprio dispositivo escaneando um código QR, acessar o protótipo em web (Não recomendado) e acessar o protótipo em um simulados ios/android.
  
-## <strong id='Vizualizar'>Vizualizar protótipo</strong>
+## <strong id='Vizualizar'>Vizualizar protótipo</strong> :eyes:
 
 Para vizualizar o protótipo, primeiramente acesse <a href='https://exp.host/@matheus-se/PrototipoBitzen'>https://exp.host/@matheus-se/PrototipoBitzen</a>. Em seguida é possivel escolher entre vizualizar em aparelho físico próprio ou em web.
 
-### Vizualizar em aparelho físico próprio
+### Vizualizar em aparelho físico próprio :iphone:
 Para isto é necessário instalar no seu dispositivo o aplicativo Expo client fornecera um scan e partbilidade de aplicações Expo. Em seguida escaneie o código QR na página do expo. 
 
-### Vizualizar em Web (Aparelho Virtual)
+### Vizualizar em Web (Aparelho Virtual) :satellite:
 Na página do projeto Expo, clique em Open project in the browser. Isto irá abrir um aparelho vitual que possibilitará a visualização da projeto.
 
 ## <strong id='Projetos'>Outros Projetos</strong> :mag:
