@@ -1,0 +1,5 @@
+[1009/122032.312:ERROR:settings.cc(401)] Settings magic is not 1129342067
+[1010/183851.774:ERROR:settings.cc(430)] Settings version is not 5
+[1010/184851.805:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1011/074804.171:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1011/213751.606:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
