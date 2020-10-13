@@ -17,7 +17,7 @@ Este projeto é uma protoipação em ract native de um layout oferecido pela **B
 
 Para visualizar o protótipo, primeiramente acesse <a href='https://exp.host/@matheus-se/PrototipoBitzen'>https://exp.host/@matheus-se/PrototipoBitzen</a>. Em seguida é possivel escolher entre visualizar em aparelho físico próprio ou em web.
 
-<p align='center' style="margin: 0px; padding: 0px;"><img src='https://i.imgur.com/Oqe7Por.png' width=90%></p>
+<p align='center' style="margin: 0px; padding: 0px;"><img src='https://i.imgur.com/Oqe7Por.png' width=50%></p>
 
 ## <strong id='clone'>Rodar projeto em máquina local</strong> :computer:
  
