@@ -1,4 +1,4 @@
-# Prototipa-o-Bitzen---React-native
+# Prototipo-Bitzen-React-native
 
 <p align='center' style="margin: 0px; padding: 0px;"><img src='https://linkites.com/wp-content/uploads/2019/04/React-native-Banner-1024x397.png' width=90%></p>
 > Status: Finished :heavy_check_mark:
@@ -11,8 +11,8 @@ Este projeto é uma protoipação em ract native de um layout oferecido pela Bit
  Com node instalado, para rodar o projeto na máquina local, em um diretório reservado digite no seu compilador:
  
  ```cmd
- git clone https://github.com/Matheus-se/Prototipa-o-Bitzen---React-native.git
- cd Prototipa-o-Bitzen---React-native
+ git clone https://github.com/Matheus-se/Prototipo-Bitzen-React-native.git
+ cd Prototipo-Bitzen-React-native
  node install
  npm start
  ```
@@ -21,7 +21,13 @@ Este projeto é uma protoipação em ract native de um layout oferecido pela Bit
  
 ## <strong id='Vizualizar'>Vizualizar protótipo</strong>
 
-Para vizualizar o protótipo, primeiramente acesse <a href='https://exp.host/@matheus-se/PrototipoBitzen'>https://exp.host/@matheus-se/PrototipoBitzen</a>.
+Para vizualizar o protótipo, primeiramente acesse <a href='https://exp.host/@matheus-se/PrototipoBitzen'>https://exp.host/@matheus-se/PrototipoBitzen</a>. Em seguida é possivel escolher entre vizualizar em aparelho físico próprio ou em web.
+
+### Vizualizar em aparelho físico próprio
+Para isto é necessário instalar no seu dispositivo o aplicativo Expo client fornecera um scan e partbilidade de aplicações Expo. Em seguida escaneie o código QR na página do expo. 
+
+### Vizualizar em Web (Aparelho Virtual)
+Na página do projeto Expo, clique em Open project in the browser. Isto irá abrir um aparelho vitual que possibilitará a visualização da projeto.
 
 ## <strong id='Projetos'>Outros Projetos</strong> :mag:
 
